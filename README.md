@@ -8,7 +8,7 @@
 <body>
 	<h1>What's your character's name and how do they look?</h1>
 	<p>The character's name is  Dion physically enhanced</p>
-<img src="images/black.jpg" alt="black" width="350px">
+<img src="images/blac.jpg" alt="black" width="350px">
 <a href="https://www.flickr.com/photos/72115265@N00/503174205">"Black Man Face" by Dr Case is licensed under CC BY-NC 2.0</a>
 <br>
 <ol><li><a href="page2.html">Origins</a></li>
